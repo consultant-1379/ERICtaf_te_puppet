@@ -1,0 +1,1 @@
+TE Puppet scripts moved to ERICtaf_te Git repo (te-puppet-scripts/src/main/resources).
